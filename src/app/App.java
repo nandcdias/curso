@@ -36,7 +36,7 @@ public class App {
         } else {
             System.out.println("Maior área é do triângulo Y");
         }
-        System.out.println("teste VS code");
+
         sc.close();
 
     }

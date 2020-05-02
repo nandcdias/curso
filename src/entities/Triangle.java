@@ -7,7 +7,6 @@ public class Triangle {
 
     public double area(){
         double p = (a+b+c)/2.0;
-        System.out.println("Estou aqui");
         return Math.sqrt(p*(p-a)*(p-b)*(p-c));
     }
 }
